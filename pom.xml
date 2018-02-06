@@ -4,15 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>nl.gridshore</groupId>
+    <groupId>com.custom</groupId>
     <artifactId>elastic-basic-plugin</artifactId>
-    <version>5.1.2-1-SNAPSHOT</version>
+    <version>6.0.0-1-SNAPSHOT</version>
     <name>Plugin: Basic</name>
     <description>Basic elasticsearch plugin to try out stuff</description>
 
     <properties>
-        <elasticsearch.version>5.1.2</elasticsearch.version>
-        <lucene.version>6.3.0</lucene.version>
+        <elasticsearch.version>6.0.0</elasticsearch.version>
+        <lucene.version>7.0.1</lucene.version>
     </properties>
 
     <dependencies>
